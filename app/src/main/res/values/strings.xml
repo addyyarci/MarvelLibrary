@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarvelLibrary</string>
+    <string name="openToast">Abrir</string>
+    <string name="no_data">No hay datos que mostrar!</string>
+</resources>
